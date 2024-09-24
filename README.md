@@ -22,5 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=moinakhere&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moinakhere&repo=-
