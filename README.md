@@ -4,6 +4,10 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moinak-samaddar-aaa8292b7) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Moinak-Samaddar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/moinakhere) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21572205) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/moinakhere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moinaksamaddar1998@gmail.com) 
+[![dailydev](https://img.shields.io/badge/Daily_Dev-gray?style=plastic&logo=dailydotdev&logoColor=white&logoSize=auto&color=black)](https://app.daily.dev/moinakhere)
+
+
+<a href="https://app.daily.dev/moinakhere"><img src="https://api.daily.dev/devcards/v2/CYSECdoH5cDo4npcatD9i.png?type=default&r=n4r" width="356" alt="Moinak Samaddar's Dev Card"/></a>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
