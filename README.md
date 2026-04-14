@@ -27,7 +27,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-
-<a href="https://app.daily.dev/moinakhere"><img src="https://api.daily.dev/devcards/v2/CYSECdoH5cDo4npcatD9i.png?type=default&r=n4r" width="356" alt="Moinak Samaddar's Dev Card"/></a>
